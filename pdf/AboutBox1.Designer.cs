@@ -140,7 +140,7 @@
             this.textBoxDescription.Size = new System.Drawing.Size(271, 81);
             this.textBoxDescription.TabIndex = 23;
             this.textBoxDescription.TabStop = false;
-            this.textBoxDescription.Text = "Programla ilgili her türlü soru ve önerileriniz için tekinardi@hotmail.com adresi" +
+            this.textBoxDescription.Text = "Programla ilgili her türlü soru ve önerileriniz için tekin.ornek@gmail.com adresi" +
     "me mail gönderebilirsiniz.";
             this.textBoxDescription.MouseClick += new System.Windows.Forms.MouseEventHandler(this.textBoxDescription_MouseClick);
             // 

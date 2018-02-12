@@ -108,7 +108,7 @@ namespace pdf
 
         private void textBoxDescription_MouseClick(object sender, MouseEventArgs e)
         {
-            System.Diagnostics.Process.Start("mailto:tekinardi@hotmail.com");
+            System.Diagnostics.Process.Start("mailto:tekin.ornek@gmail.com");
         }
 
         private void button1_Click(object sender, EventArgs e)
